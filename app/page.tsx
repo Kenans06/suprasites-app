@@ -8,7 +8,7 @@ export default function Home() {
         <Image
           className="block m-auto w-4/5 md:w-1/2 xl:w-1/4"
           src={Logo}
-          alt="Hairsalon SixtyOne Logo"
+          alt="Supra Sites Logo"
           quality={100}
           placeholder="blur"
         ></Image>
