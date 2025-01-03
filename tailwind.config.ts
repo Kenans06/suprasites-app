@@ -12,6 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         "supra-white": "#FFFDED",
+        "supra-orange": "#ff9400",
       },
     },
   },
