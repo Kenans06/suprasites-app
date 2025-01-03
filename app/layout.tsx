@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import "./globals.css";
 
-const newRodin = localFont({ src: "./fonts/new-rodin.otf" });
+const newRodin = localFont({ src: "./fonts/newrodin-regular.otf" });
 
 export const metadata: Metadata = {
   title: "Supra Sites",
