@@ -3,7 +3,7 @@ import Logo from "./logowtext.png";
 
 export default function Home() {
   return (
-    <div className="flex h-screen">
+    <div className="flex">
       <div className="m-auto">
         <Image
           className="block m-auto w-1/2"
