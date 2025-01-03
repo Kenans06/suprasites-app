@@ -4,7 +4,7 @@ import LogoWithText from "../logowtext.png";
 import Image from "next/image";
 import Link from "next/link";
 
-const Header = () => {
+export default function Header() {
   return (
     <header className="p-10 flex bg-black">
       <Image
@@ -55,6 +55,4 @@ const Header = () => {
       </div>
     </header>
   );
-};
-
-export default Header;
+}
